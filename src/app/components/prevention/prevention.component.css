@@ -1,0 +1,12 @@
+
+.tips{
+    list-style: circle;
+    line-height: 2rem;
+    text-align: justify;
+    box-sizing: border-box;
+    border: 1px;
+    border-radius: 5px;
+    background: rgb(251,245,237);
+    width: 850px;
+
+}
